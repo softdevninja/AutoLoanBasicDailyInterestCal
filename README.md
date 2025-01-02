@@ -1,3 +1,3 @@
 # AutoLoanBasicDailyInterestCal
 
-Calculates daily interest rate by feeding values to receive a decimal monetary value. 
+Performs calculations to return daily interest in monetary value using applied Principal & Fixed rate provided by user. 
